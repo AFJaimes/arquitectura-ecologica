@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arquitectura-ecologica/static/css/main.a617e044.chunk.css",
+    "main.js": "/arquitectura-ecologica/static/js/main.78ab1eb8.chunk.js",
+    "main.js.map": "/arquitectura-ecologica/static/js/main.78ab1eb8.chunk.js.map",
+    "runtime-main.js": "/arquitectura-ecologica/static/js/runtime-main.a248a0a2.js",
+    "runtime-main.js.map": "/arquitectura-ecologica/static/js/runtime-main.a248a0a2.js.map",
+    "static/js/2.019a40a4.chunk.js": "/arquitectura-ecologica/static/js/2.019a40a4.chunk.js",
+    "static/js/2.019a40a4.chunk.js.map": "/arquitectura-ecologica/static/js/2.019a40a4.chunk.js.map",
+    "static/js/3.c2597dfb.chunk.js": "/arquitectura-ecologica/static/js/3.c2597dfb.chunk.js",
+    "static/js/3.c2597dfb.chunk.js.map": "/arquitectura-ecologica/static/js/3.c2597dfb.chunk.js.map",
+    "index.html": "/arquitectura-ecologica/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/arquitectura-ecologica/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.019a40a4.chunk.js.LICENSE.txt": "/arquitectura-ecologica/static/js/2.019a40a4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/arquitectura-ecologica/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a248a0a2.js",
+    "static/js/2.019a40a4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.78ab1eb8.chunk.js"
+  ]
+}
